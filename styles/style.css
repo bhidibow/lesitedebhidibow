@@ -1,0 +1,60 @@
+@import "banner.css"; 
+@import "button.css";
+@import "card.css";
+@import "footer.css";
+@import "footer2.css";
+
+body{
+  margin: 0;
+  
+}
+a{
+  text-decoration: none;
+}
+
+.container {
+  width: 75%;
+  margin: 48px auto;
+  
+}
+
+h1 {
+  font-family: roboto;
+  font-size: x large;
+}
+h2 {
+  text-align: center;
+  font-family: roboto ;
+  font-size: x large;
+}
+h3 {
+    font-family:roboto ;
+    font-size:medium;
+    font-style: italic;
+    
+
+}
+p {
+  text-align: center;
+  font-family: roboto, sans-serif ;
+
+}
+
+img {
+  border-radius: 6%;
+  box-shadow: 14px 5px 5px rgb(118, 113, 113);
+
+  }
+  img:hover{
+    -ms-transform: scale(1.1); 
+    -webkit-transform: scale(1.1); 
+    transform: scale(1.1);
+    transition-duration: 1s;
+    }
+
+
+
+
+
+
+
