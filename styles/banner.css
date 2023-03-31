@@ -15,4 +15,13 @@ color: #ffffff;
 body{
     margin: 0%;
 }
+ 
 
+.card-banner {
+    background-color: black;
+    border-radius: 6%;
+    padding: 25px;
+    box-shadow: 1px 1px 12px 1px rgb(0, 0, 0);
+    
+  }
+  
