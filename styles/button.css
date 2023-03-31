@@ -5,12 +5,13 @@
     font-weight: bold;
     border-radius: 7px;
     padding: 16px;
-    font-family: roboto;
+    font-family: arial;
 }
 
 .btn-blue:hover{
     background-color: rgb(140, 0, 0);
     color: rgb(255, 255, 255);
     transition: 1.5s;
+    
 }
 
