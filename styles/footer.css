@@ -1,7 +1,12 @@
 .footer {
-    background-color: rgb(65, 65, 65);
+    background-color: rgb(164, 112, 112);
     text-align: center;
     color: white;
-    padding: 67px 0;
-    height: 23;
+    padding: 48px 0;
+    
+}
+
+.insta {
+    font-size: 40px;
+    color: rgb(141, 31, 31);
 }

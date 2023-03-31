@@ -10,7 +10,7 @@
 
 .btn-blue:hover{
     background-color: rgb(140, 0, 0);
-    color: rgb(0, 0, 0);
-    transition: 1s;
+    color: rgb(255, 255, 255);
+    transition: 1.5s;
 }
 
